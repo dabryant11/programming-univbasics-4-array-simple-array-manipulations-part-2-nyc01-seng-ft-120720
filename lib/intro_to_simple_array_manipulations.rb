@@ -18,3 +18,8 @@ end
 def using_delete(arr1, arr2)
   arr.delete(arr2[1])
 end
+
+def using_delete_at(arr, int)
+  arr.using_delete_at(int)
+  
+end
