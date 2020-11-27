@@ -20,6 +20,6 @@ def using_delete(arr1, str)
 end
 
 def using_delete_at(arr, int)
-  arr.using_delete_at(2)
+  arr.using_delete_at(arr[int])
   
 end
