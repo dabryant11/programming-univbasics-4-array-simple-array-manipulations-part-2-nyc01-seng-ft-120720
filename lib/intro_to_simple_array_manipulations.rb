@@ -16,5 +16,5 @@ def using_flatten(arr)
 end
 
 def using_delete(arr1, arr2)
-  arr.delete(arr1[1])
+  arr.delete(arr2[1])
 end
